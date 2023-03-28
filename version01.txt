@@ -1,0 +1,2 @@
+After bug fixing, this is the new feature with minor alteration”
+This is the advancement of previous feature
